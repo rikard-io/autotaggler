@@ -2,10 +2,6 @@
 
 > A quick way to tag files (audio for now) in the browser. Open your files, add some tags, do some keyboard-mapping and start tagging!
 
-### This is an experiment, it's full of bad humour, bugs and lint warnings.
-
-Features an extremely naive AI-bot (based on deeplearn.js and knn-image-classifier). Basically extracts the FFT of the files, draws it to a canvas (🙈) to turn it into a image classification problem.
-
 ## Build Setup
 
 ``` bash
