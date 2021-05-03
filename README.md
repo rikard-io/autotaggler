@@ -1,6 +1,7 @@
 # QuickTagger
 
-> A quick way to tag files (audio for now) in the browser. Open your files, add some tags, do some keyboard-mapping and start tagging!
+> A quick way to tag / label files (audio for now) in the browser. Open your files, add some tags, do some keyboard-mapping and start tagging!
+> Good for quickly labeling a audio-dataset.
 
 ## Build Setup
 
